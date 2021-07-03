@@ -16,5 +16,6 @@ license : ..
 Js.Terminal (VSC)
 >npm install express --save
 >npm install express-generator -g
+>cd myapp
 >npm install
 >set DEBUG=myapp:* & npm start*/
