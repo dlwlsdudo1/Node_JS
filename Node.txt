@@ -1,0 +1,20 @@
+;;Install link : https://nodejs.org/ko/
+1.4.7
+
+> npm init;;
+package name : ..
+version : 1.0.0
+description : 프로젝트 설명
+entry point  :  만든 패키지 중 여러 스크립트 중에 어떤 스크립트가 이 패키지를 구동시키는가
+test command : 어떤 명령을 하면 구동 되는가
+git repository : github에다 내용 올려놓는것
+keywords : 키워드..
+author : ..
+license : ..
+
+
+Js.Terminal (VSC)
+>npm install express --save
+>npm install express-generator -g
+>npm install
+>set DEBUG=myapp:* & npm start*/
