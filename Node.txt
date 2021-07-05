@@ -19,3 +19,6 @@ Js.Terminal (VSC)
 >cd myapp
 >npm install
 >set DEBUG=myapp:* & npm start*/
+
+
+db html은 따로 필요로 하지 않음 바로 라이브서버 전송
